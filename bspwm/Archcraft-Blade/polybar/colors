@@ -1,0 +1,20 @@
+[color]
+
+FOREGROUND = rgb:f1/c4/c0
+BACKGROUND = rgb:0c/10/18
+BLACK = rgb:0c/10/18
+RED = rgb:F8/50/6D
+GREEN = rgb:F0/65/76
+YELLOW = rgb:CF/91/6E
+BLUE = rgb:FA/3C/82
+MAGENTA = rgb:E9/69/8E
+CYAN = rgb:EA/72/88
+WHITE = rgb:f1/c4/c0
+ALTBLACK = rgb:a8/89/86
+ALTRED = rgb:F8/50/6D
+ALTGREEN = rgb:F0/65/76
+ALTYELLOW = rgb:CF/91/6E
+ALTBLUE = rgb:FA/3C/82
+ALTMAGENTA = rgb:E9/69/8E
+ALTCYAN = rgb:EA/72/88
+ALTWHITE = rgb:f1/c4/c0
